@@ -1,6 +1,6 @@
-// Created on: Sep 2020
-// Created by: Mr Coxall
-// Created for: This is the code for a 1/2 adder
+// Created on: Jan 2024
+// Created by: Mikey Gloriani
+// This is a half-adder with arduino
 
 const int DIGIT_A1 = 13;
 const int DIGIT_B1 = 12;
